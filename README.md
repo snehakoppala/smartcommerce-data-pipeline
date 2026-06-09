@@ -234,5 +234,7 @@ python consumer.py
 ## Author
 
 **Sneha Reddy**
-Master of Science in Decision Analytics - Virginia Commonwealth University (Expected May 2026)
+Master in Decision Analytics - Virginia Commonwealth University (School Of Business)
 Previously: Software Engineer at Taxila IT Solutions (Java, Spring Boot, Kafka, MySQL, Cassandra)
+
+Linkedin - https://www.linkedin.com/in/sneha-reddy13/
