@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# Data files (don't push raw data to GitHub)
+*.csv
+*.parquet
+*.json
+data/
+scripts/
+
+# AWS credentials (NEVER push these)
+.aws/
+credentials
+*.pem
+*.key
+
+# DuckDB
+*.duckdb
+
+# Airflow logs
+logs/
+
+# Docker
+.docker/
+
+# OS files
+.DS_Store
+Thumbs.db
