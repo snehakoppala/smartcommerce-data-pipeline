@@ -50,7 +50,7 @@ Raw Data (CSV)
 smartcommerce-data-pipeline/
 |
 |-- notebook/
-|   `-- Data_Engineering_Project.ipynb    # Full pipeline: data gen > PySpark > DuckDB > dbt
+|   `-- Smartcommerce_Data_Engineering_Project.ipynb    # Full pipeline: data gen > PySpark > DuckDB > dbt
 |
 |-- airflow/
 |   `-- smartcommerce_pipeline.py         # Airflow DAG with 7 tasks
